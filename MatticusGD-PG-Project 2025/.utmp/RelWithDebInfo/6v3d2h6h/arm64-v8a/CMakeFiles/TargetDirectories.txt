@@ -1,0 +1,5 @@
+C:/Users/mateu/Documents/GitHub/MatticusGD-PG-Proj/MatticusGD-PG-Project 2025/.utmp/RelWithDebInfo/6v3d2h6h/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/mateu/Documents/GitHub/MatticusGD-PG-Proj/MatticusGD-PG-Project 2025/.utmp/RelWithDebInfo/6v3d2h6h/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/mateu/Documents/GitHub/MatticusGD-PG-Proj/MatticusGD-PG-Project 2025/.utmp/RelWithDebInfo/6v3d2h6h/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/mateu/Documents/GitHub/MatticusGD-PG-Proj/MatticusGD-PG-Project 2025/.utmp/RelWithDebInfo/6v3d2h6h/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/mateu/Documents/GitHub/MatticusGD-PG-Proj/MatticusGD-PG-Project 2025/.utmp/RelWithDebInfo/6v3d2h6h/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
